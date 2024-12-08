@@ -17,5 +17,5 @@
     <string name="edit_file_name">Edit name</string>
     <string name="edit_file_caption">Edit caption</string>
     <string name="instance">Instance</string>
-    <string name="online_user_count_message">%d poeple online</string>
+    <string name="online_user_count_message">%d people online</string>
 </resources>

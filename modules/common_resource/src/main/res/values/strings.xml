@@ -289,12 +289,12 @@
     <string name="please_again_to_finish">Press again to finish</string>
 
     <string name="url_preview">URL preview</string>
-    <string name="summaly_server_url">Summaly server URL</string>
+    <string name="summaly_server_url">Summary server URL</string>
     <string name="displayed_url_preview">Displayed URL preview</string>
     <string name="preview_display_test">Preview display test</string>
     <string name="test_url">Test URL</string>
     <string name="from_misskey_api">From Misskey API</string>
-    <string name="specify_summaly_server">Specify Summaly server</string>
+    <string name="specify_summaly_server">Specify Summary server</string>
     <string name="use_app_implementation_deprecated">Use app implementation (deprecated)</string>
 
     <string name="use_simple_editor">Use simple editor</string>
@@ -315,7 +315,7 @@
     <string name="auto_note_folding">Automatic note folding</string>
     <string name="add_to_list">Add to list</string>
     <string name="promotion">Promotion</string>
-    <string name="waiting_4_approval">Waaaiting for approval</string>
+    <string name="waiting_4_approval">Waiting for approval</string>
     <!--    <string name="i_have_approved">Approved</string>-->
     <!--    <string name="waiting_4_u_to_approve">Waiting for you to approve</string>-->
     <string name="learn_note_visibility">Learn note visibility</string>
@@ -595,7 +595,7 @@
     <string name="user_mute_specify_time_1_day_later">1 day later</string>
     <string name="user_mute_specify_time_1_week_later">1 week later</string>
     <string name="user_mute_specify_time_1_month_later">1 month later</string>
-    <string name="user_mute_specify_time_indefinite_period">Indefinite perio</string>
+    <string name="user_mute_specify_time_indefinite_period">Indefinite period</string>
     <string name="view_remotely">View remotely</string>
     <string name="follows_you">Follows you</string>
     <string name="suggestion_users">Suggestions</string>

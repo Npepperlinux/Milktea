@@ -16,5 +16,5 @@
     <string name="edit_file_name">重新命名文件</string>
     <string name="edit_file_caption">编辑标题</string>
     <string name="instance">Instance</string>
-    <string name="online_user_count_message">%d poeple online</string>
+    <string name="online_user_count_message">%d people online</string>
 </resources>
