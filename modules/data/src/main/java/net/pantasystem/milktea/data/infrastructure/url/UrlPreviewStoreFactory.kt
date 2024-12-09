@@ -13,7 +13,7 @@ import retrofit2.Retrofit
 
 class UrlPreviewStoreFactory(
     private val urlPreviewDAO: UrlPreviewDAO,
-    private var summalyUrl: String? = null,
+    private var summaryUrl: String? = null,
     var account: Account? = null,
     private val misskeyAPIServiceBuilder: MisskeyAPIServiceBuilder,
     private val okHttpClient: OkHttpClientProvider,
@@ -22,7 +22,7 @@ class UrlPreviewStoreFactory(
 
     fun create(): UrlPreviewStore {
         val url = account?.normalizedInstanceUri
-            ?: summalyUrl
+            ?: summaryUrl
         return UrlPreviewMediatorStore(urlPreviewDAO, createUrlPreviewStore(url))
     }
 

@@ -40,7 +40,7 @@ class NoteEditorFileSizeWarningDialog : AppCompatDialogFragment() {
         return MaterialAlertDialogBuilder(requireContext())
             .setTitle(R.string.file_size_warning_dialog_title)
             .setMessage(getString(R.string.file_size_warning_dialog_message, host, convertHumanFriendly(allowSize)))
-            .setPositiveButton(R.string.file_size_warning_dialo_positive_button) { _, _ ->
+            .setPositiveButton(R.string.file_size_warning_dialog_positive_button) { _, _ ->
                 dismiss()
             }.setNegativeButton(R.string.file_size_warning_dialog_negative_button) { _, _ ->
                 noteEditorViewModel.removeFileNoteEditorData(appFile)

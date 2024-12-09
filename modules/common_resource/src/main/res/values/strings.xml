@@ -289,12 +289,12 @@
     <string name="please_again_to_finish">Press again to finish</string>
 
     <string name="url_preview">URL preview</string>
-    <string name="summaly_server_url">Summary server URL</string>
+    <string name="summary_server_url">Summary server URL</string>
     <string name="displayed_url_preview">Displayed URL preview</string>
     <string name="preview_display_test">Preview display test</string>
     <string name="test_url">Test URL</string>
     <string name="from_misskey_api">From Misskey API</string>
-    <string name="specify_summaly_server">Specify Summary server</string>
+    <string name="specify_summary_server">Specify Summary server</string>
     <string name="use_app_implementation_deprecated">Use app implementation (deprecated)</string>
 
     <string name="use_simple_editor">Use simple editor</string>
@@ -540,7 +540,7 @@
 
     <string name="file_size_warning_dialog_title">File size warning</string>
     <string name="file_size_warning_dialog_message">%1$s does not allow attachments larger than %2$s.\nDo you want to continue?</string>
-    <string name="file_size_warning_dialo_positive_button">Continue</string>
+    <string name="file_size_warning_dialog_positive_button">Continue</string>
     <string name="file_size_warning_dialog_negative_button">Cancel attachment</string>
 
     <string name="mark_media_as_sensitive">Mark media as sensitive</string>

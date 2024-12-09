@@ -285,12 +285,12 @@
     <string name="please_again_to_finish">再按一次关闭</string>
 
     <string name="url_preview">链接内容预览</string>
-    <string name="summaly_server_url">预览服务器 URL</string>
+    <string name="summary_server_url">预览服务器 URL</string>
     <string name="displayed_url_preview">URL 预览</string>
     <string name="preview_display_test">测试预览样式</string>
     <string name="test_url">测试 URL</string>
     <string name="from_misskey_api">使用 Misskey API</string>
-    <string name="specify_summaly_server">指定预览服务器</string>
+    <string name="specify_summary_server">指定预览服务器</string>
     <string name="use_app_implementation_deprecated">使用自带实现（已被弃用）</string>
 
     <string name="use_simple_editor">使用简易编辑器</string>
@@ -537,7 +537,7 @@
     <string name="expand">展开</string>
     <string name="file_size_warning_dialog_message">%1$s 不允许大于 %2$s 的附件。要继续吗？</string>
     <string name="file_size_warning_dialog_negative_button">取消附件</string>
-    <string name="file_size_warning_dialo_positive_button">继续</string>
+    <string name="file_size_warning_dialog_positive_button">继续</string>
     <string name="file_size_warning_dialog_title">文件大小警告</string>
     <string name="mark_media_as_sensitive">将媒体标记为敏感</string>
     <string name="successfully_added_to_favorites">已成功添加到收藏夹</string>
