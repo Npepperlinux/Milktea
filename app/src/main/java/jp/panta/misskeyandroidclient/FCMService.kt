@@ -77,7 +77,7 @@ class FCMService : FirebaseMessagingService() {
         val builder = NotificationCompat.Builder(this, NOTIFICATION_CHANNEL_ID)
         builder.setContentTitle(pushNotification.title)
             .setContentText(pushNotification.body)
-            .setSmallIcon(R.mipmap.ic_launcher_foreground)
+            .setSmallIcon(R.drawable.ic_launcher_foreground)
             .setGroup(GROUP_KEY_MISSKEY_NOTIFICATION)
             .setGroupSummary(true)
 
